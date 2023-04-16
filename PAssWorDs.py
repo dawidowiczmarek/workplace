@@ -24,8 +24,8 @@ while True:
 
     good_password = upper_yes and \
                     lower_yes and \
-                    special_char_yes and\
-                    enough_char and\
+                    special_char_yes and \
+                    enough_char and \
                     digit_char and \
                     one_space
 
